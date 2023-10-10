@@ -7,6 +7,7 @@ This project aims to develop a machine-learning model to predict whether a patie
 * Scikit-learn
 * Pandas
 * NumPy
+* Matplotlib
 
 ### Instructions
 * Clone the repository.
