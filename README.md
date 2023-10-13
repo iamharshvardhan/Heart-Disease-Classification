@@ -1,4 +1,7 @@
 # Heart-Disease-Classification
+
+<center><img src="https://www.heartresearch.com.au/wp-content/uploads/2016/08/shutterstock_208215142.jpg", height=400></center>
+
 This project aims to develop a machine-learning model to predict whether a patient has heart disease or not based on attributes like age, sex, cholesterol level, blood pressure, etc.
 
 ### Prerequisites
